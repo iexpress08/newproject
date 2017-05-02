@@ -11,7 +11,7 @@
 	<distributionManagement>
 		<snapshotRepository>
 		<id>nexus</id>
-		<url>http://localhost:8081/nexus/content/repositories/spring-petclinic-snapshot</url>
+		<url>http://localhost:8081/nexus/</url>
 		</snapshotRepository>
 	</distributionManagement>
 	<properties>
